@@ -1,2 +1,1 @@
-# odinProject-tic_tac_toe
-Tic Tac Toe game (Odin project)
+Live preview: https://zcvitk.github.io/odinProject-tic_tac_toe/
